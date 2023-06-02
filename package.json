@@ -2,7 +2,11 @@
   "name": "filepath",
   "displayName": "filepath",
   "description": "Simple extension to right-click a line of code and get a relative path + line number on the clipboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stgarrity/filepath"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
